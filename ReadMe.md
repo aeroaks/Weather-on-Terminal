@@ -10,9 +10,6 @@ Get weather information right on the terminal.
 
 
 ### How it works?
-1. It fetches your ip from  http://checkip.dyndns.org
+1. It fetches your ip from http://ip-api.com/json
 2. By using ip, it fetches weather from http://worldweatheronline.com/
 
-
-### More
-Wrote this for my blog post http://www.avilpage.com/2014/06/a-weather-widget-on-your-terminal.html
