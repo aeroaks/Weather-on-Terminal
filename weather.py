@@ -12,7 +12,6 @@ def get_ip():
     '''
     get ip across LAN from api
     '''
-    #~ url = 'https://www.whatismyip.com/'
     url = 'http://ip-api.com/json'
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0'})
     json_html = urllib.request.urlopen(req).read()
