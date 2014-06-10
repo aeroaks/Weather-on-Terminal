@@ -10,7 +10,7 @@ Get weather information right on the terminal.
 
 ### IPython Notebook
 
-    http://nbviewer.ipython.org/github/aeroaks/Weather-on-Terminal/blob/master/Weather-on-terminal.ipynb#
+    http://nbviewer.ipython.org/github/aeroaks/Weather-on-Terminal/blob/master/Weather-on-terminal.ipynb
 
 ### How it works?
 1. It fetches your ip from http://ip-api.com/json
