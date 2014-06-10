@@ -8,6 +8,9 @@ Get weather information right on the terminal.
     cd Weather-on-Terminal
     python weather.py
 
+### IPython Notebook
+
+    http://nbviewer.ipython.org/github/aeroaks/Weather-on-Terminal/blob/master/Weather-on-terminal.ipynb#
 
 ### How it works?
 1. It fetches your ip from http://ip-api.com/json
